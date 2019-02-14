@@ -130,6 +130,7 @@ footer {
 footer .copyright {
   top: -8px;
   font-size: .75em;
+  color: #ccc;
 }
 
 footer ul {
