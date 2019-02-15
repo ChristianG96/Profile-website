@@ -125,6 +125,10 @@ ul.skills {
   color: #e69900;
 }
 
+.contactimage{
+  background-image: url(images/waterfountain4);
+  background-size: cover;
+}
 
 footer {
   width: 100%;
