@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: #ccc;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -125,10 +125,6 @@ ul.skills {
   color: #e69900;
 }
 
-.contactimage{
-  background-image: url(images/waterfountain4);
-  background-size: cover;
-}
 
 footer {
   width: 100%;
