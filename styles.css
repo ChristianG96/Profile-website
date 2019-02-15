@@ -121,6 +121,11 @@ ul.skills {
   color: white;
 }
 
+.email {
+  color: #e69900;
+}
+
+
 footer {
   width: 100%;
   min-height: 30px;
